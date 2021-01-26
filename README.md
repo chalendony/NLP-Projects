@@ -6,9 +6,11 @@ List Natural Language Projects
 ### Sentiment
 
 
-## NLP with German
+## Resources
+
+### German
 - [German-NLP](https://github.com/adbar/German-NLP)
-- TODO update
+
 
 ## Readings
 
@@ -16,4 +18,4 @@ List Natural Language Projects
 
 ### Papers
 
-## Online Videos and Courses
+## Videos and Courses
