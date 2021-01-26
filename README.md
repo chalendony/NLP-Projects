@@ -1,7 +1,7 @@
 # NLP-Projects
 List Natural Language Projects and resources
 
-# Contents
+## Contents
 * [Projects](#projects)
 * [Resources](#resources)
 * [Readings](#projects)
