@@ -1,7 +1,7 @@
 # NLP-Projects
 List Natural Language Projects and resources
 
-## Contents
+# Contents
 * [Projects](#projects)
 * [Resources](#resources)
 * [Readings](#projects)
@@ -9,18 +9,18 @@ List Natural Language Projects and resources
 
 
 
-## Projects
+# Projects
 
-### Sentiment
+## Sentiment
 
 
-## Resources
+# Resources
 
 ### German
 - [German-NLP](https://github.com/adbar/German-NLP)
 
 
-## Readings
+# Readings
 
 Inspiring books and scientific publications
 
@@ -31,6 +31,6 @@ Inspiring books and scientific publications
 
 ### Papers
 
-## Videos and Courses
+# Videos and Courses
 * [Coursera NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
